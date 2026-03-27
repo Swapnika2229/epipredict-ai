@@ -1,24 +1,82 @@
-# 🌍 EpiPredict AI - Disease Spread Predictor
+🌍 EpiPredict AI – Disease Spread Predictor
 
-## 📌 Problem Statement
-Predicting the spread of infectious diseases is crucial for public health planning and response.
+🚀 Overview
 
-## 💡 Solution
-EpiPredict AI uses historical COVID-19 data to forecast future case trends using machine learning.
+EpiPredict AI is an AI-powered epidemic forecasting system that predicts the future spread of infectious diseases using real-world data. It helps in understanding outbreak trends and supports early decision-making for healthcare planning.
 
-## 🚀 Features
-- 📊 Visualizes COVID-19 case trends over time
-- 🔮 Predicts future cases using Linear Regression
-- 🎛️ Interactive dashboard using Streamlit
+---
 
-## 🛠️ Tech Stack
+🎯 Features
+
+- 📊 Real-time data visualization of COVID-19 cases
+- 🤖 Machine Learning-based prediction (Linear Regression)
+- 📈 Actual vs Predicted trend comparison
+- 📊 Bar chart visualization for future predictions
+- 🌍 Top 5 countries analysis
+- 💡 Smart insights for decision-making
+
+---
+
+🛠️ Tech Stack
+
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
+- Matplotlib
 - Streamlit
 
-## ⚙️ How to Run
-```bash
-pip install pandas numpy scikit-learn streamlit
+---
+
+⚙️ Installation & Setup
+
+1. Clone the repository
+
+git clone https://github.com/your-username/your-repo-name.git
+
+2. Navigate to project folder
+
+cd your-repo-name
+
+3. Install dependencies
+
+pip install -r requirements.txt
+
+4. Run the application
+
 streamlit run app.py
+
+---
+
+📂 Dataset
+
+- Johns Hopkins COVID-19 Time Series Dataset
+
+---
+
+📊 Output
+
+- Interactive dashboard with predictions
+- Graphical analysis of epidemic spread
+- AI-based forecasting results
+
+---
+
+💡 Future Improvements
+
+- Use advanced models (LSTM, ARIMA)
+- Add real-time API data
+- Improve prediction accuracy
+
+---
+
+👩‍💻 Author
+
+Swapnika Mohanty
+Solo Innovator 🚀
+
+---
+
+🏆 Hackathon
+
+Submitted for Codecure – AI Hackathon (IIT BHU)
