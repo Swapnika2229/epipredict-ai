@@ -32,11 +32,11 @@ EpiPredict AI is an AI-powered epidemic forecasting system that predicts the fut
 
 1. Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Swapnika2229/epipredict-ai
 
 2. Navigate to project folder
 
-cd your-repo-name
+cd epipredict-ai
 
 3. Install dependencies
 
